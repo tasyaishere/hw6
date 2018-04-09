@@ -22,7 +22,7 @@ __Часть 2.__ __*Sketch Engine*__
 
 
 
-_Задание 1_: BNC - "Question"
+_Задание 1_: BNC - "Question": https://github.com/tasyaishere/hw6/blob/master/Снимок%20экрана%202018-04-09%20в%2023.41.40.png
 
 
 
