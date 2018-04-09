@@ -27,6 +27,15 @@ _Задание 1_: BNC - "Question": https://github.com/tasyaishere/hw6/blob/ma
 
 
 _Задание 2_: ruin / destroy https://github.com/tasyaishere/hw6/blob/master/Снимок%20экрана%202018-04-10%20в%200.00.08.png 
+
+
+
 ruin the buildind / destroy the building
+
+
+
 ruin smb's life 
+
+
+
 destroy enemies
